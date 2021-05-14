@@ -1,0 +1,45 @@
+.id1 {
+  border: 9px solid #CD5C5C;
+padding: 20px;
+margin-left: 30px;
+margin-right: 1048px;
+
+}
+.id2 {
+  border: 9px solid #CD5C5C;
+padding: 20px;
+margin-left: 30px;
+margin-right: 1048px;
+
+}
+.title{
+  margin-bottom: 86px;
+text-shadow: 4px 7px 3px rgb(128 0 128 / 77%), 0 0 1.2em rgb(0 255 0);
+font-size: 285%;
+text-align: center;
+}
+.id3{
+  text-align: center;
+  margin-top: -449px;
+  margin-left: 851px;
+  border: 9px solid #CD5C5C;
+  padding: 26px;
+  /* margin-left: 1078px; */
+  margin-right: 190px;
+}
+.id4{
+  margin-right: 182px;
+      text-align: center;
+      margin-top: 36px;
+      margin-left: 852px;
+      border: 9px solid #CD5C5C;
+
+      padding-bottom: 273px;
+      background: url(fotka.png) no-repeat;
+      background-size: 195px;
+
+      background-position-x: 150px;
+      background-position-y: 124px;
+  }
+
+}
